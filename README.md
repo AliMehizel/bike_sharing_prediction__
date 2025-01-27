@@ -6,8 +6,7 @@ Bike-sharing systems have become a popular mode of transportation in urban areas
 
 ## Objective
 
-The goal of this project is to develop a deep learning model that predicts the bike-sharing demand for the next 60 minutes for each station based on historical data. Students will work individually to analyze the data, build and evaluate models, and provide actionable business recommendations.
-
+The goal of this project is to develop a deep learning model that predicts the bike-sharing demand for the next 60 minutes for each station based on historical data.
 ## Key Business Questions
 
 - What are the top 5 stations with the highest demand over a given period?
